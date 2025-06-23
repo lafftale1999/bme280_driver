@@ -1,0 +1,28 @@
+var bme280__registers_8h =
+[
+    [ "BME280_AMOUNT_CALIB_PARAMS", "group___b_m_e280__calibration__registers.html#ga73412be63a199b8475e18fc6889a195c", null ],
+    [ "BME280_CONFIG_REGISTER", "group___b_m_e280__registers__configurations.html#gada02dea7303e7610305693d4b30eea2b", null ],
+    [ "BME280_CONTROL_HUMIDITY", "group___b_m_e280__registers__configurations.html#ga0c2eea196371a47013148c80afbfb168", null ],
+    [ "BME280_CONTROL_MEASURE", "group___b_m_e280__registers__configurations.html#ga560f3350d279ec9a84717371b8390e66", null ],
+    [ "BME280_HUM_CALIB_CONTINUE", "group___b_m_e280__calibration__registers.html#ga86d231c47f3d2c862f47e6ad2a9ec767", null ],
+    [ "BME280_HUM_CALIB_CONTINUE_LEN", "group___b_m_e280__calibration__registers.html#ga1e5ac3e533ca0ef1f51dfafe66bf83d3", null ],
+    [ "BME280_HUM_CALIB_FIRST", "group___b_m_e280__calibration__registers.html#gafa27302a58cf929215f1a0a119cbba4f", null ],
+    [ "BME280_HUM_CALIB_FIRST_LEN", "group___b_m_e280__calibration__registers.html#ga70e87cf548add60852625eb1e61fe193", null ],
+    [ "BME280_HUMIDITY_REG_LSB", "group___b_m_e280__read__data__registers.html#gadbbbed1ae14a46bbf7b5d16a03205e4d", null ],
+    [ "BME280_HUMIDITY_REG_MSB", "group___b_m_e280__read__data__registers.html#ga0e6108bcd8df796286885c9f3c1fb32f", null ],
+    [ "BME280_ID_REG", "group___b_m_e280__registers___i_d__and__reset.html#ga5a322d6be41eef9f73efb79a96e2bbbe", null ],
+    [ "BME280_PRESS_CALIB_PARAM_START", "group___b_m_e280__calibration__registers.html#gacc5a3ea398a62a0ebd513b466a556a7a", null ],
+    [ "BME280_PRESS_PARAMS_LEN", "group___b_m_e280__calibration__registers.html#ga8778f772fa2345564de2d84d23e23029", null ],
+    [ "BME280_PRESS_REG_LSB", "group___b_m_e280__read__data__registers.html#gae8444d0a299e3188404a8f4d63d702ad", null ],
+    [ "BME280_PRESS_REG_MSB", "group___b_m_e280__read__data__registers.html#gacd18edd5fddf56b7e7ace98a5df77a18", null ],
+    [ "BME280_PRESS_REG_XLSB", "group___b_m_e280__read__data__registers.html#ga8f167fdfd89ce8636d72588d87166cf7", null ],
+    [ "BME280_READ_VALUES_REG_LEN", "group___b_m_e280__read__data__registers.html#ga1258a87bff847383d3020e50a6ae59d4", null ],
+    [ "BME280_READ_VALUES_REG_START", "group___b_m_e280__read__data__registers.html#gac8c8b98d8bb32b4c2e59682cc2b4b5ce", null ],
+    [ "BME280_RESET_REGISTER", "group___b_m_e280__registers___i_d__and__reset.html#ga88109cc7402e43837c374154c4d12e89", null ],
+    [ "BME280_TEMP_CALIB_PARAM_START", "group___b_m_e280__calibration__registers.html#ga251555dd9fc57b0f2faf8bd06bf4cdc6", null ],
+    [ "BME280_TEMP_PARAMS_LEN", "group___b_m_e280__calibration__registers.html#gae91e96642ea0169ec5a71215378e6145", null ],
+    [ "BME280_TEMP_REG_LSB", "group___b_m_e280__read__data__registers.html#gacf22c5e326bc66dcff0e4beb0c5cfadc", null ],
+    [ "BME280_TEMP_REG_MSB", "group___b_m_e280__read__data__registers.html#ga7ae19fcd97a806ec2643e60f1aeb0dd5", null ],
+    [ "BME280_TEMP_REG_XLSB", "group___b_m_e280__read__data__registers.html#ga6188fc0f813ea2fafde3cf1ae92db030", null ],
+    [ "BME280_WRITE_RESET_BITS", "group___b_m_e280__registers___i_d__and__reset.html#ga4658cf30b100baee06d114f02457667e", null ]
+];
