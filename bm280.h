@@ -121,7 +121,7 @@ int bme280_read_data(const bme280_handle_t handle);
  * @param handle Handle to the BME280 instance.
  * @return Pointer to JSON string, or NULL if not available.
  */
-const char* BME280_get_json(const bme280_handle_t handle);
+const char* bme280_get_json(const bme280_handle_t handle);
 
 /** @} */ // End of bme280_functions
 
