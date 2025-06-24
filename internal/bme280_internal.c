@@ -56,7 +56,7 @@ int bme280_calibration(const bme280_handle_t handle)
     
     uint8_t buf[BME280_AMOUNT_CALIB_PARAMS] = {0};
     
-    uint8_t t_p_param_start = BM2E80_TEMP_CALIB_PARAM_START;
+    uint8_t t_p_param_start = BME280_TEMP_CALIB_PARAM_START;
     // read temperature and pressure calibration values
     
     if (i2c_read_data(&handle->i2c_address, &t_p_param_start, buf, BME280_TEMP_PARAMS_LEN + BME280_PRESS_PARAMS_LEN) != 0) {
