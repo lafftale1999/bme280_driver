@@ -4,6 +4,7 @@ cmake_minimum_required(VERSION 3.13)
 add_library(bme280 STATIC
     bme280.c
     internal/bme280_internal.c
+    internal/bme280_i2c.c
 )
 
 # Inkludera headers
