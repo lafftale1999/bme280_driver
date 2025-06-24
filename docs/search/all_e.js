@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['t_5ffine_0',['t_fine',['../structbme280__handle__internal.html#a347e9bcb740d195f14e1aee2b5335546',1,'bme280_handle_internal']]],
-  ['temp_1',['temp',['../structbme280__handle__internal.html#a0b74650f65befda654c0d293ce4ccafb',1,'bme280_handle_internal']]],
-  ['temp_5fraw_2',['temp_raw',['../structbme280__handle__internal.html#a7e8801294b879b4b7eefb1a421049fa0',1,'bme280_handle_internal']]],
-  ['temperature_3',['temperature',['../structbme280__handle__internal.html#ae41902ff087cca54af407a3480646b86',1,'bme280_handle_internal']]],
-  ['typedefinitions_4',['Typedefinitions',['../group__bme280__typedefs.html',1,'']]]
+  ['macro_0',['Debug Macro',['../group__bme280__debug.html',1,'']]],
+  ['macros_1',['Oversampling Macros',['../group___b_m_e280__oversampling__macros.html',1,'']]],
+  ['main_2',['main',['../main_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main.c']]],
+  ['main_2ec_3',['main.c',['../main_8c.html',1,'']]],
+  ['map_4',['BME280 Register Map',['../group__bme280__registers.html',1,'']]],
+  ['measurements_20settings_5',['Measurements Settings',['../group___b_m_e280__measurement__settings.html',1,'']]],
+  ['modes_6',['Reading Modes',['../group___b_m_e280__reading__modes.html',1,'']]]
 ];

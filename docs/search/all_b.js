@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['press_0',['press',['../structbme280__handle__internal.html#aea9665992d9026e7d77ed05939c17a6c',1,'bme280_handle_internal']]],
-  ['press_5fraw_1',['press_raw',['../structbme280__handle__internal.html#a744d83d364172f885ed698b7c76c509c',1,'bme280_handle_internal']]],
-  ['pressure_2',['pressure',['../structbme280__handle__internal.html#afd90759db2ec8200bc6b29b2e811fec7',1,'bme280_handle_internal']]]
+  ['headerfile_0',['BME280 Headerfile',['../group__bme280__headerfile.html',1,'']]],
+  ['hum_1',['hum',['../structbme280__handle__internal.html#a83c5306fb972bddb81690c655ecccdaf',1,'bme280_handle_internal']]],
+  ['hum_5fraw_2',['hum_raw',['../structbme280__handle__internal.html#a23271326c0df12ecadc764cd7d92258f',1,'bme280_handle_internal']]],
+  ['humidity_3',['humidity',['../structbme280__handle__internal.html#adc2e8c680e0e334e10daef41652cc58f',1,'bme280_handle_internal']]]
 ];

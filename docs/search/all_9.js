@@ -1,10 +1,7 @@
 var searchData=
 [
-  ['macro_0',['Debug Macro',['../group__bme280__debug.html',1,'']]],
-  ['macros_1',['Oversampling Macros',['../group___b_m_e280__oversampling__macros.html',1,'']]],
-  ['main_2',['main',['../main_8c.html#a840291bc02cba5474a4cb46a9b9566fe',1,'main.c']]],
-  ['main_2ec_3',['main.c',['../main_8c.html',1,'']]],
-  ['map_4',['BME280 Register Map',['../group__bme280__registers.html',1,'']]],
-  ['measurements_20settings_5',['Measurements Settings',['../group___b_m_e280__measurement__settings.html',1,'']]],
-  ['modes_6',['Reading Modes',['../group___b_m_e280__reading__modes.html',1,'']]]
+  ['functionality_20to_20your_20root_20cmakelists_20txt_0',['2. Add functionality to your root CMakeLists.txt',['../md__r_e_a_d_m_e.html#autotoc_md10',1,'']]],
+  ['functions_1',['Functions',['../group__bme280__functions.html',1,'']]],
+  ['functions_2',['Internal functions',['../group___b_m_e280__internal__functions.html',1,'']]],
+  ['functions_20implementation_3',['External Functions Implementation',['../group___b_m_e280__driver__fn__impl.html',1,'']]]
 ];

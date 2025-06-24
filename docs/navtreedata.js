@@ -25,6 +25,22 @@
 var NAVTREE =
 [
   [ "BM280 Driver", "index.html", [
+    [ "About the project", "md__r_e_a_d_m_e.html", [
+      [ "Pre-requisites", "md__r_e_a_d_m_e.html#autotoc_md3", [
+        [ "1. Raspberry Pi Pico W SDK", "md__r_e_a_d_m_e.html#autotoc_md4", null ],
+        [ "2. GCC", "md__r_e_a_d_m_e.html#autotoc_md5", null ],
+        [ "3. Cmake", "md__r_e_a_d_m_e.html#autotoc_md6", null ],
+        [ "4. Correctly connected system", "md__r_e_a_d_m_e.html#autotoc_md7", null ]
+      ] ],
+      [ "Include in your project", "md__r_e_a_d_m_e.html#autotoc_md8", [
+        [ "1. Add submodule to your git repo", "md__r_e_a_d_m_e.html#autotoc_md9", null ],
+        [ "2. Add functionality to your root CMakeLists.txt", "md__r_e_a_d_m_e.html#autotoc_md10", null ]
+      ] ],
+      [ "Configurations", "md__r_e_a_d_m_e.html#autotoc_md11", null ],
+      [ "Build", "md__r_e_a_d_m_e.html#autotoc_md12", null ],
+      [ "Documentation", "md__r_e_a_d_m_e.html#autotoc_md13", null ],
+      [ "Author", "md__r_e_a_d_m_e.html#autotoc_md14", null ]
+    ] ],
     [ "Topics", "topics.html", "topics" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
