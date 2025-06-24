@@ -63,6 +63,9 @@ In the headerfile of bme280.h you can configure the drivers communication.
 #define I2C_FREQUENCY               100000          /**< Frequency for communication */
 ```
 
+You can find out which internal I2C module to use by looking at the pinout diagram for your Pico W. I used GPIO14 and GPIO15.
+
+![Pinout for the Raspberry Pi Pico W](/resources/picow-pinout.svg)
 ## Build
 To build you can use the following commands from the root directory of your project.
 
