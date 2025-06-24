@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 3.13)
 # === Ditt drivrutinsbibliotek ===
 add_library(bme280 STATIC
     bme280.c
-    bme280.s
     internal/bme280_internal.c
 )
 
