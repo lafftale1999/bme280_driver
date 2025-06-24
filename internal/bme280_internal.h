@@ -22,7 +22,7 @@ extern "C" {
 
 #include "bme280_json.h"
 #include "bme280_settings.h"
-#include "bme280.h"
+#include "../bme280.h"
 
 /**
  * @brief Internal struct for BME280 driver state and calibration.

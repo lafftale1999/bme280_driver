@@ -9,7 +9,7 @@
  -------------------------------------------------------------------------------------------------*/
 
 #include "internal/bme280_internal.h"
-#include "bme280_i2c.h"
+#include "internal/bme280_i2c.h"
 #include <string.h>
 
 /**
